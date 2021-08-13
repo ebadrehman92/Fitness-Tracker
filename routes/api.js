@@ -16,7 +16,6 @@ router.get("/api/workouts/", async (req, res) => {
     .catch((err) => res.status(400).json(err));
 });
 
-//Might not be being used??? Might Only Be posting
 router.get("/api/workouts/:id", async (req, res) => {});
 
 //GET RANGE
