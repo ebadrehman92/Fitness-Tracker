@@ -3,6 +3,8 @@
 # Description 
 Created a workout tracker application utilizing MongoDB and Mongoose Schema. The workout app tracks daily workouts by logging multiple exercises in a workout.
 
+<img width="1420" alt="fitnessTracker" src="https://user-images.githubusercontent.com/64440230/136471552-d5f90336-f239-44fa-be06-6aaa0a9f6de6.png">
+
 # Usage
 The user is able to select resistance training and track the total weights lifted, the number of sets/reps and the total duration of their exercise. Also if the user selects cardio they will be able to track their distance traveled as well.
 
